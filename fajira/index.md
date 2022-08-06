@@ -1,3 +1,5 @@
+Page inaccessible
+----
 La page que vous cherchez à atteindre n'est pas accessible.
 
 # Ceci n'est pas un problème technique.
